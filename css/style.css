@@ -1,0 +1,30 @@
+body{
+  font-family: lucida sans, sans-serif;
+  font-size: 100%;
+}
+header{
+  background-color: #93b240;
+}
+nav{
+  background-color: #638443;
+  text-align: right;
+}
+main{
+  background-color: #638443;
+  font-size: 120%!important;
+}
+footer{
+  background-color: #638443;
+}
+li{
+  width: 100%!important;
+  display: inline-block;
+}
+h1{
+  font-family: Arial;
+  text-align: center;
+  color: #1c3305;
+}
+p{
+  line-height: 140%;
+}
